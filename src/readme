@@ -1,0 +1,2 @@
+# webpack可以认为是前端的maven工具，nodejs可以认为是前端的jdk开发环境，相较于原生的前端，js必须在浏览器中执行，这里的js可以在nodejs的环境中执行
+# jsx是react中的componet，对应的就是前端页面

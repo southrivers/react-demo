@@ -1,0 +1,22 @@
+.add{
+    display: block;
+    color: black;
+    background-color: aqua;
+    size: 10cm;
+}
+.list {
+    padding-top: 20px;
+    border-top: 1px solid blanchedalmond;
+    margin-top: 10px;
+}
+.item {
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+.remove {
+    background-color: gray;
+    margin-left: 100px;
+}
+/**
+css是靠近的css会优先生效，并且同一个选择器的不同属性会进行合并，可以认为是内层的css会投影到外层，有重叠的部分会被覆盖，多余的效果进行叠加
+*/
